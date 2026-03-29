@@ -38,7 +38,7 @@ The goal of this dashboard is to analyze:
 ---
 
 ## 📷 Dashboard Preview
-*(screenshot below)*
+![Dashboard Preview](Dashboard.PNG)
 
 ---
 
